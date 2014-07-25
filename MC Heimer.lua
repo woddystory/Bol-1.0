@@ -11,7 +11,7 @@
           - Fixed bug with cast spells
           - Option on the Menu to enable or disable minion collision on W (enable as default)
  
-]]
+--]]
 
 
 
