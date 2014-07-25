@@ -9,7 +9,7 @@
           - Added Harass Button
           - Little finetune on the dodge Logic
           - Fixed bug with cast spells
-          - Option on the Menu to enable or disable minion collision on W (disable as default)
+          - Option on the Menu to enable or disable minion collision on W (enable as default)
  
 ]]
 
