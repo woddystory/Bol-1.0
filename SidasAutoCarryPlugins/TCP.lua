@@ -1,8 +1,8 @@
 if myHero.charName ~= "Quinn" then return end
 
-local version = 0.01
+local version = 0.02
 
-
+local teste = nil
 
 
 
